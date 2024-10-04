@@ -748,7 +748,7 @@ main {
 }
 
 .clients-item {
-  min-width: 10%;
+  /*min-width: 10%;*/
   scroll-snap-align: start;
   margin: 0 px; /* Added margin for spacing */
 }
