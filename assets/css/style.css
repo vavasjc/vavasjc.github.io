@@ -748,13 +748,13 @@ main {
 }
 
 .clients-item {
-  /*min-width: 10%;*/
+  min-width: 10%;
   scroll-snap-align: start;
   margin: 0 px; /* Added margin for spacing */
 }
 
 .clients-item img {
-  width: 100%;
+  /*width: 100%;*/
   filter: drop-shadow(2px 2px 5px black);
   transition: var(--transition-1);
 }
