@@ -753,6 +753,11 @@ main {
   margin: 0 px; /* Added margin for spacing */
 }
 
+.clients-item a {
+  height: 50px;
+}
+
+
 .clients-item img {
   /*width: 100%;*/
   filter: drop-shadow(2px 2px 5px black);
